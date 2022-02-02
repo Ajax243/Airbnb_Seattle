@@ -29,6 +29,9 @@ The first two questions are answered with a model and a point plot based on the 
 Third question is answered in the calendar notebook
 Fourth question is answered by the reviews notebook
 
+A blogpost with the questions excluding the model could be found here:
+https://medium.com/@m.osamasalman/maximizing-the-value-of-your-airbnb-seattle-data-findings-5a321d671325
+
 
 Further Work:
 
